@@ -8,3 +8,4 @@
 6. Configure registration preferences
 7. Add external provider (This time google)
 8. Add git gateway so Decap can add commits
+9. For local development `npx decap-server`
